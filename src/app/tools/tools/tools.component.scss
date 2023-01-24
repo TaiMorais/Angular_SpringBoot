@@ -1,0 +1,61 @@
+table {
+  width: 100%;
+}
+
+mat-toolbar {
+  background-color: #52575a;
+}
+
+.loading-spinner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 25px;
+  background-color: white;
+}
+
+.mat-elevation-z8 {
+  background: rgb(200, 204, 204);
+}
+
+.material-icons {
+  display: table;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  font-variation-settings: "FILL" 5, "wght" 200, "GRAD" 0, "opsz" 0;
+}
+
+.formatar_Td {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 7px;
+}
+
+.example-button-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 120px;
+}
+
+.centraliza{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  box-shadow:none;
+}
+
+.centraliza_color{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  box-shadow:none;
+  color: #962038;
+}
